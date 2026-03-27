@@ -1,0 +1,42 @@
+name: Scrape CarbuFuel
+
+on:
+  schedule:
+    # 2h30 heure belge = 1h30 UTC en hiver, 0h30 UTC en été
+    # On met 1h30 UTC, ce qui couvre l'heure d'hiver (UTC+1)
+    # En été (UTC+2), le script tournera à 3h30 belge — acceptable
+    - cron: '30 1 * * *'
+
+  # Permet aussi de lancer manuellement depuis GitHub
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # nécessaire pour pusher le JSON
+
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scrape_carbu.py
+
+      - name: Commit & push stations.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stations.json
+          git diff --staged --quiet || git commit -m "Update stations.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
