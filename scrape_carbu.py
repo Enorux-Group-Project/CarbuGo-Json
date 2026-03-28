@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+import re
 from html import unescape
 from urllib.parse import quote
 
@@ -34,10 +35,10 @@ LOCATIONS = [
     ("Dinant", "Dinant", "5500", "BE_nm_1366"),
     ("Marche-en-Famenne", "Marche-en-Famenne", "6900", "BE_lu_1880"),
     ("Bastogne", "Bastogne", "6600", "BE_lu_1705"),
-    ("La Louvière", "La Louviere", "7100", "BE_ht_2008"),  
-    ("Huy", "Huy", "4500", "BE_lg_1003"),                  
-    ("Ciney", "Ciney", "5590","BE_nm_1479"),              
-    ("Andenne", "Andenne", "5300", "BE_nm_1284"),          
+    ("La Louvière", "La Louviere", "7100", "BE_ht_2008"),
+    ("Huy", "Huy", "4500", "BE_lg_1003"),
+    ("Ciney", "Ciney", "5590", "BE_nm_1479"),
+    ("Andenne", "Andenne", "5300", "BE_nm_1284"),
 
     # Flandre
     ("Antwerpen", "Anvers", "2000", "BE_a_310"),
@@ -63,7 +64,8 @@ LOCATIONS = [
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "fr-BE,fr;q=0.9",
 }
 
 session = requests.Session()
@@ -88,8 +90,19 @@ def to_float(value):
         if value in (None, ""):
             return None
         return float(str(value).replace(",", "."))
-    except:
+    except Exception:
         return None
+
+
+def extract_update_date(item):
+    text = item.get_text(" ", strip=True)
+    text = re.sub(r"\s+", " ", text)
+
+    match = re.search(r"Mise\s+à\s+jour\s*:\s*(\d{2}/\d{2}/\d{2})", text, re.IGNORECASE)
+    if match:
+        return match.group(1)
+
+    return ""
 
 
 def fetch_with_retry(url, tries=3, timeout=20):
@@ -130,13 +143,14 @@ def scrape_page(city_display, city_url, cp, location_id, fuel_label, fuel_code):
 
         station_id = clean_text(d.get("data-id"))
         name = clean_text(d.get("data-name"))
-        brand = clean_text(d.get("data-logo"))
+        brand = clean_text(d.get("data-logo"))  # juste identifiant brut si présent
         address = clean_address(d.get("data-address"))
         lat = to_float(d.get("data-lat"))
         lng = to_float(d.get("data-lng"))
         price = to_float(d.get("data-price"))
         url_station = clean_text(d.get("data-link"))
         fuel_name = clean_text(d.get("data-fuelname"))
+        update_date = extract_update_date(item)
 
         stations.append({
             "id": station_id,
@@ -148,6 +162,7 @@ def scrape_page(city_display, city_url, cp, location_id, fuel_label, fuel_code):
             "fuel": fuel_label,
             "fuel_name": fuel_name,
             "price": price,
+            "update_date": update_date,
             "url": url_station,
             "source_city": city_display,
             "source_cp": cp,
@@ -157,38 +172,43 @@ def scrape_page(city_display, city_url, cp, location_id, fuel_label, fuel_code):
     return stations
 
 
-all_stations = {}
-request_count = 0
+def main():
+    all_stations = {}
+    request_count = 0
 
-for fuel_label, fuel_code in FUELS.items():
-    for city_display, city_url, cp, location_id in LOCATIONS:
-        try:
-            results = scrape_page(city_display, city_url, cp, location_id, fuel_label, fuel_code)
+    for fuel_label, fuel_code in FUELS.items():
+        for city_display, city_url, cp, location_id in LOCATIONS:
+            try:
+                results = scrape_page(city_display, city_url, cp, location_id, fuel_label, fuel_code)
 
-            for s in results:
-                key = f'{s["id"]}_{s["fuel"]}'
-                all_stations[key] = s
+                for s in results:
+                    key = f'{s["id"]}_{s["fuel"]}'
+                    all_stations[key] = s
 
-        except Exception as e:
-            print(f"Erreur ignorée pour {city_display} / {fuel_label} : {e}")
+            except Exception as e:
+                print(f"Erreur ignorée pour {city_display} / {fuel_label} : {e}")
 
-        request_count += 1
-        time.sleep(2)
+            request_count += 1
+            time.sleep(2)
 
-        if request_count % 5 == 0:
-            print("Pause de sécurité...")
-            time.sleep(5)
+            if request_count % 5 == 0:
+                print("Pause de sécurité...")
+                time.sleep(5)
 
-data = list(all_stations.values())
+    data = list(all_stations.values())
 
-# tri pour avoir un JSON propre
-data.sort(key=lambda x: (
-    x["fuel"] or "",
-    999999 if x["price"] is None else x["price"],
-    x["name"] or ""
-))
+    # tri pour avoir un JSON propre
+    data.sort(key=lambda x: (
+        x["fuel"] or "",
+        999999 if x["price"] is None else x["price"],
+        x["name"] or ""
+    ))
 
-with open("stations.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
+    with open("stations.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-print(f"Done: {len(data)} stations sauvegardées dans stations.json")  
+    print(f"Done: {len(data)} stations sauvegardées dans stations.json")
+
+
+if __name__ == "__main__":
+    main()
