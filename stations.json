@@ -82951,7 +82951,7 @@
     "lat": 50.429347090995,
     "lng": 4.1701278308716,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.043,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/wanty/peronnes-lez-binche/7134/18714",
@@ -83323,9 +83323,9 @@
     "price": 2.063,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/soignies/7060/1701",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "2385",
@@ -83735,7 +83735,7 @@
     "lat": 50.456613025621,
     "lng": 4.0944138882218,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.083,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/gulf/maurage/7110/2436",
@@ -83899,9 +83899,9 @@
     "price": 2.086,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/pont-a-celles/6230/3378",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "21946",
@@ -85664,22 +85664,6 @@
     "location_id": "BE_bf_200"
   },
   {
-    "id": "3736",
-    "name": "DATS 24 Anderlues",
-    "brand": "dats24.gif",
-    "address": "Chaussée de Charleroi 2, 6150 Anderlues",
-    "lat": 50.40581,
-    "lng": 4.273682,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.139,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/dats24/anderlues/6150/3736",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "163",
     "name": "DATS 24 Ans",
     "brand": "dats24.gif",
@@ -85895,7 +85879,7 @@
     "lat": 50.466792338258,
     "lng": 4.2686013042297,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/chapelle-lez-herlaimont/7160/3232",
@@ -86075,9 +86059,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/mons/7000/162",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "167",
@@ -86187,9 +86171,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/courcelles/6180/3739",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "3948",
@@ -86331,9 +86315,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/givry/7041/1177",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "820",
@@ -86519,7 +86503,7 @@
     "lat": 50.490549512425,
     "lng": 4.1487888552253,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/houdeng-goegnies/7110/20324",
@@ -86823,7 +86807,7 @@
     "lat": 50.456750908126,
     "lng": 4.2344117604659,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/morlanwelz/7140/3886",
@@ -87335,7 +87319,7 @@
     "lat": 50.4216208,
     "lng": 4.1714111,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/dats24/binche/7130/21510",
@@ -88343,7 +88327,7 @@
     "lat": 50.410175646109,
     "lng": 4.1965107501546,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/gabriels/epinois/7134/1044",
@@ -89259,9 +89243,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil/fontaine-leveque/6140/950",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Charleroi",
+    "source_cp": "6000",
+    "location_id": "BE_ht_1578"
   },
   {
     "id": "907",
@@ -89751,7 +89735,7 @@
     "lat": 50.464098663686,
     "lng": 4.1997255449829,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil-express/haine-saint-paul/7100/898",
@@ -90391,7 +90375,7 @@
     "lat": 50.47530564682,
     "lng": 4.1814003607826,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil/la-louviere/7100/897",
@@ -90523,9 +90507,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil/mons/7000/888",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "889",
@@ -90539,9 +90523,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil/mons/7000/889",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "798",
@@ -91067,9 +91051,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/lukoil/soignies/7060/19085",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "793",
@@ -92208,22 +92192,6 @@
     "location_id": "BE_foi_2633"
   },
   {
-    "id": "20148",
-    "name": "Q8 Easy Anderlues",
-    "brand": "q8_easy.gif",
-    "address": "CHAUSSEE DE CHARLEROI 101, 6150 Anderlues",
-    "lat": 50.406152462407,
-    "lng": 4.2806360550171,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.139,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/q8-easy/anderlues/6150/20148",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "1633",
     "name": "Q8 Easy Ans",
     "brand": "q8_easy.gif",
@@ -92379,9 +92347,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8-easy/gouy-lez-pieton/6181/2132",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "1728",
@@ -92507,9 +92475,9 @@
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8-easy/mons/7000/1680",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "1791",
@@ -92519,7 +92487,7 @@
     "lat": 50.458681482025,
     "lng": 4.2674585712051,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.139,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8-easy/morlanwelz/7140/1791",
@@ -93664,22 +93632,6 @@
     "location_id": "BE_nm_1222"
   },
   {
-    "id": "20878",
-    "name": "Shell Express Binche",
-    "brand": "109_Shell_Express_Logo.png",
-    "address": "Route de Charleroi 195, 7130 Binche",
-    "lat": 50.409199575077,
-    "lng": 4.2062813454384,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.143,
-    "update_date": "27/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/shell-express/binche/7130/20878",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "2082",
     "name": "Shell Express Boncelles",
     "brand": "109_Shell_Express_Logo.png",
@@ -93863,7 +93815,7 @@
     "lat": 50.466901,
     "lng": 4.207446,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.143,
     "update_date": "27/03/26",
     "url": "https://carbu.com/belgique/index.php/station/shell-express/haine-saint-pierre/7100/3885",
@@ -94123,9 +94075,9 @@
     "price": 2.143,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/naast/7062/20875",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "3188",
@@ -94240,22 +94192,6 @@
     "location_id": "BE_bf_200"
   },
   {
-    "id": "470",
-    "name": "Esso Express Anderlues",
-    "brand": "esso_express.gif",
-    "address": "Chaussée De Thuin 399, 6150 Anderlues",
-    "lat": 50.389163844071,
-    "lng": 4.2817377546311,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.145,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/esso-express/anderlues/6150/470",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "392",
     "name": "Esso Express Baudour",
     "brand": "esso_express.gif",
@@ -94343,7 +94279,7 @@
     "lat": 50.45095409574,
     "lng": 4.245804253212,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.145,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso-express/carnieres/7141/473",
@@ -94414,22 +94350,6 @@
     "source_city": "Sint-Niklaas",
     "source_cp": "9100",
     "location_id": "BE_foi_2575"
-  },
-  {
-    "id": "19817",
-    "name": "Esso Express Epinois",
-    "brand": "esso_express.gif",
-    "address": "Route de Charleroi 150, 7134 Epinois",
-    "lat": 50.4100328626,
-    "lng": 4.1991749116394,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.145,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/esso-express/epinois/7134/19817",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
   },
   {
     "id": "178",
@@ -94519,7 +94439,7 @@
     "lat": 50.4487591,
     "lng": 4.1804628,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.145,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso-express/haine-saint-paul/7100/1429",
@@ -94663,7 +94583,7 @@
     "lat": 50.488756947652,
     "lng": 4.2006207152748,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.145,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso-express/la-louviere/7100/387",
@@ -95335,7 +95255,7 @@
     "lat": 50.502044929834,
     "lng": 4.2343322380287,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.145,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso/manage/7170/409",
@@ -95358,22 +95278,6 @@
     "source_city": "Mons",
     "source_cp": "7000",
     "location_id": "BE_ht_1945"
-  },
-  {
-    "id": "407",
-    "name": "Esso Snack & Shop Soignies",
-    "brand": "esso.gif",
-    "address": "Chaussée De Braine 153, 7060 Soignies",
-    "lat": 50.587654592659,
-    "lng": 4.0889899927292,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.145,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/esso/soignies/7060/407",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
   },
   {
     "id": "313",
@@ -96363,9 +96267,9 @@
     "price": 2.159,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso-express/estinnes-au-val/7120/3777",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "4309",
@@ -96775,7 +96679,7 @@
     "lat": 50.44722468454,
     "lng": 4.1758385437637,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.159,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/maes/haine-saint-paul/7100/21537",
@@ -97067,9 +96971,9 @@
     "price": 2.159,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8-easy/braine-le-comte/7090/3888",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "1623",
@@ -97568,22 +97472,6 @@
     "location_id": "BE_bf_200"
   },
   {
-    "id": "1224",
-    "name": "Shell Express Anderlues",
-    "brand": "109_Shell_Express_Logo.png",
-    "address": "Chaussée De Charleroi 151, 6150 Anderlues",
-    "lat": 50.40622,
-    "lng": 4.287778,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.159,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/shell-express/anderlues/6150/1224",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "2001",
     "name": "Shell Express Beaufays",
     "brand": "109_Shell_Express_Logo.png",
@@ -97947,9 +97835,9 @@
     "price": 2.159,
     "update_date": "27/03/26",
     "url": "https://carbu.com/belgique/index.php/station/shell-express/mons/7000/2100",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "2134",
@@ -98055,7 +97943,7 @@
     "lat": 50.521799,
     "lng": 4.251104,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.159,
     "update_date": "27/03/26",
     "url": "https://carbu.com/belgique/index.php/station/shell-express/seneffe/7180/2127",
@@ -98887,7 +98775,7 @@
     "lat": 50.506375293299,
     "lng": 4.1106949914017,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/avia/le-roeulx/7070/3899",
@@ -98971,9 +98859,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/avia/soignies/7060/3973",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "1536",
@@ -99995,9 +99883,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso/estinnes-au-mont/7120/952",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "406",
@@ -100231,7 +100119,7 @@
     "lat": 50.526096150293,
     "lng": 4.2544002159386,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso-express/seneffe/7180/53",
@@ -100663,7 +100551,7 @@
     "lat": 50.488764144235,
     "lng": 4.1533845263978,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso/houdeng-goegnies/7110/386",
@@ -100823,7 +100711,7 @@
     "lat": 50.505407,
     "lng": 4.111357,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso/le-roeulx/7070/2126",
@@ -101099,9 +100987,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/esso/mons/7000/2425",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "1188",
@@ -101755,9 +101643,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/euro/braine-le-comte/7090/605",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "577",
@@ -101803,9 +101691,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/euro/braine-le-comte/7090/606",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "597",
@@ -101888,22 +101776,6 @@
     "location_id": "BE_nm_1479"
   },
   {
-    "id": "614",
-    "name": "Euro+ Lobbes",
-    "brand": "euro+.gif",
-    "address": "Rue Des Waibes 115, 6540 Lobbes",
-    "lat": 50.362405360869,
-    "lng": 4.2782536706073,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.163,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/euro/lobbes/6540/614",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "603",
     "name": "Euro+ Manage",
     "brand": "euro+.gif",
@@ -101911,7 +101783,7 @@
     "lat": 50.48168754865,
     "lng": 4.2282789963646,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/euro/manage/7170/603",
@@ -101931,9 +101803,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/euro/soignies/7060/601",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "598",
@@ -101975,7 +101847,7 @@
     "lat": 50.481548549589,
     "lng": 4.2275133919115,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/fayt-lez-manage/7170/1014",
@@ -102475,9 +102347,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/gulf/mons/7000/21317",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "1103",
@@ -102679,7 +102551,7 @@
     "lat": 50.483629690973,
     "lng": 4.1603947460327,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/houdeng-goegnies/7110/3355",
@@ -103159,7 +103031,7 @@
     "lat": 50.475773,
     "lng": 4.128541,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/strepy-bracquegnies/7110/3353",
@@ -103479,7 +103351,7 @@
     "lat": 50.475229744665,
     "lng": 4.2205159497375,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/haine-saint-pierre/7100/580",
@@ -103755,9 +103627,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/courcelles/6180/1706",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Charleroi",
+    "source_cp": "6000",
+    "location_id": "BE_ht_1578"
   },
   {
     "id": "20195",
@@ -103771,9 +103643,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/courcelles/6180/20195",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "1814",
@@ -103927,7 +103799,7 @@
     "lat": 50.485768325596,
     "lng": 4.2001504404144,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8-easy/la-louviere/7100/125",
@@ -104219,9 +104091,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/euro/casteau/7061/21303",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "3855",
@@ -104571,9 +104443,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/havre/7021/2827",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "3858",
@@ -104823,7 +104695,7 @@
     "lat": 50.498366806287,
     "lng": 4.1237809189796,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/le-roeulx/7070/408",
@@ -104839,7 +104711,7 @@
     "lat": 50.490265987168,
     "lng": 4.0955511045074,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/thieu/7070/2855",
@@ -104855,7 +104727,7 @@
     "lat": 50.4879650877,
     "lng": 4.0961840661316,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/thieu/7070/2856",
@@ -105383,7 +105255,7 @@
     "lat": 50.429993,
     "lng": 4.188513,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/q8/peronnes-lez-binche/7134/3268",
@@ -106379,9 +106251,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/scipioni/fontaine-leveque/6140/1946",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Charleroi",
+    "source_cp": "6000",
+    "location_id": "BE_ht_1578"
   },
   {
     "id": "3339",
@@ -106875,9 +106747,9 @@
     "price": 2.163,
     "update_date": "27/03/26",
     "url": "https://carbu.com/belgique/index.php/station/shell-express/soignies/7060/2124",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "3897",
@@ -106967,7 +106839,7 @@
     "lat": 50.4746361,
     "lng": 4.1906305,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "27/03/26",
     "url": "https://carbu.com/belgique/index.php/station/shell-express/la-louviere/7100/2113",
@@ -108519,7 +108391,7 @@
     "lat": 50.414621544001,
     "lng": 4.1675715091926,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/texaco/binche/7130/2519",
@@ -109883,9 +109755,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/arquennes/7181/2858",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "2628",
@@ -110295,7 +110167,7 @@
     "lat": 50.4168468,
     "lng": 4.1686685,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/binche/7130/2916",
@@ -111163,9 +111035,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/souvret/6182/2461",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "2793",
@@ -111255,7 +111127,7 @@
     "lat": 50.537791500493,
     "lng": 4.1987463831902,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/feluy/7181/20369",
@@ -112023,7 +111895,7 @@
     "lat": 50.486223701122,
     "lng": 4.1580753447746,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/houdeng-goegnies/7110/2841",
@@ -112455,7 +112327,7 @@
     "lat": 50.4793306,
     "lng": 4.1736742000001,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/la-louviere/7100/2842",
@@ -112471,7 +112343,7 @@
     "lat": 50.46559528716,
     "lng": 4.199272574243,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/la-louviere/7100/2716",
@@ -112583,7 +112455,7 @@
     "lat": 50.4985422,
     "lng": 4.1230402,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/le-roeulx/7070/2857",
@@ -112663,26 +112535,10 @@
     "lat": 50.422423343605,
     "lng": 4.2216720263893,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/leval-trahegnies/7134/3892",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
-    "id": "2917",
-    "name": "TotalEnergies Leval-Trahegnies Brison-Hamaide SPRL",
-    "brand": "85_Logo_TotalEnergies.png",
-    "address": "Route de Charleroi 165, 7134 Leval-Trahegnies",
-    "lat": 50.40943074781,
-    "lng": 4.2030370780292,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.163,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/totalenergies/leval-trahegnies/7134/2917",
     "source_city": "La Louvière",
     "source_cp": "7100",
     "location_id": "BE_ht_2008"
@@ -112782,22 +112638,6 @@
     "source_city": "Andenne",
     "source_cp": "5300",
     "location_id": "BE_nm_1284"
-  },
-  {
-    "id": "948",
-    "name": "TotalEnergies Lobbes Lorge",
-    "brand": "85_Logo_TotalEnergies.png",
-    "address": "Rue d'Anderlues 197, 6540 Lobbes",
-    "lat": 50.382960543955,
-    "lng": 4.2787093399504,
-    "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
-    "price": 2.163,
-    "update_date": "28/03/26",
-    "url": "https://carbu.com/belgique/index.php/station/totalenergies/lobbes/6540/948",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
   },
   {
     "id": "3046",
@@ -113399,7 +113239,7 @@
     "lat": 50.458114029333,
     "lng": 4.234165927578,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/morlanwelz/7140/2919",
@@ -113415,7 +113255,7 @@
     "lat": 50.459704352243,
     "lng": 4.2690424369094,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/morlanwelz/7140/2190",
@@ -114203,9 +114043,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/shape-village/7010/20140",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Mons",
+    "source_cp": "7000",
+    "location_id": "BE_ht_1945"
   },
   {
     "id": "2831",
@@ -114311,7 +114151,7 @@
     "lat": 50.467698925129,
     "lng": 4.2759396699753,
     "fuel": "diesel",
-    "fuel_name": "Diesel (B7)",
+    "fuel_name": "Gazole (B7)",
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/chapelle-lez-herlaimont/7160/2128",
@@ -114907,9 +114747,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/trazegnies/6183/2462",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "2852",
@@ -115435,9 +115275,9 @@
     "price": 2.163,
     "update_date": "28/03/26",
     "url": "https://carbu.com/belgique/index.php/station/totalenergies/ecaussinnes/7190/2125",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "1070",
@@ -116416,22 +116256,6 @@
     "location_id": "BE_foc_2292"
   },
   {
-    "id": "3422",
-    "name": "Alca",
-    "brand": "",
-    "address": "Chaussee De Thuin 306, 6150 Anderlues",
-    "lat": 50.391244,
-    "lng": 4.282448,
-    "fuel": "diesel",
-    "fuel_name": "",
-    "price": null,
-    "update_date": "",
-    "url": "https://carbu.com/belgique/index.php/station/vrijlibre/anderlues/6150/3422",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "941",
     "name": "Andre Celis Kumtich",
     "brand": "6_AndreLogo.png",
@@ -117291,9 +117115,9 @@
     "price": null,
     "update_date": "",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/courcelles/6180/1945",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Charleroi",
+    "source_cp": "6000",
+    "location_id": "BE_ht_1578"
   },
   {
     "id": "589",
@@ -119467,9 +119291,9 @@
     "price": null,
     "update_date": "",
     "url": "https://carbu.com/belgique/index.php/station/pumpy/courcelles/6180/4643",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "2918",
@@ -120416,22 +120240,6 @@
     "location_id": "BE_nm_1222"
   },
   {
-    "id": "1947",
-    "name": "Scipioni Anderlues",
-    "brand": "scipioni.gif",
-    "address": "Chaussée de Bascoup 164, 6150 Anderlues",
-    "lat": 50.414929606571,
-    "lng": 4.2828809963646,
-    "fuel": "diesel",
-    "fuel_name": "",
-    "price": null,
-    "update_date": "",
-    "url": "https://carbu.com/belgique/index.php/station/scipioni/anderlues/6150/1947",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
     "id": "1944",
     "name": "Scipioni Chapelle-lez-Herlaimont",
     "brand": "scipioni.gif",
@@ -120475,22 +120283,6 @@
     "price": null,
     "update_date": "",
     "url": "https://carbu.com/belgique/index.php/station/scipioni/la-louviere/7100/3354",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
-  },
-  {
-    "id": "1948",
-    "name": "Scipioni Leval-Trahegnies",
-    "brand": "scipioni.gif",
-    "address": "Route De Charleroi 173, 7134 Leval-Trahegnies",
-    "lat": 50.4093228,
-    "lng": 4.2041878,
-    "fuel": "diesel",
-    "fuel_name": "",
-    "price": null,
-    "update_date": "",
-    "url": "https://carbu.com/belgique/index.php/station/scipioni/leval-trahegnies/7134/1948",
     "source_city": "La Louvière",
     "source_cp": "7100",
     "location_id": "BE_ht_2008"
@@ -121147,9 +120939,9 @@
     "price": null,
     "update_date": "",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/courcelles/6180/21948",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "3925",
@@ -121179,9 +120971,9 @@
     "price": null,
     "update_date": "",
     "url": "https://carbu.com/belgique/index.php/station/vrijlibre/courcelles/6180/3380",
-    "source_city": "La Louvière",
-    "source_cp": "7100",
-    "location_id": "BE_ht_2008"
+    "source_city": "Nivelles",
+    "source_cp": "1400",
+    "location_id": "BE_bw_153"
   },
   {
     "id": "4022",
